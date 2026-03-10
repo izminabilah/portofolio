@@ -110,9 +110,9 @@ export const listProyek = [
   {
     id: 1,
     gambar: Proyek1,
-    nama: "Website Sekolah",
+    nama: "School Management Website",
     desk: "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quis, laborum!",
-    tools: ["HTML", "CSS", "Javascript", "AOS"],
+    tools: ["PHP", "HTML", "CSS", "Javascript"],
     dad: "200",
   },
   {
